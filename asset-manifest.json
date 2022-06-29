@@ -1,15 +1,15 @@
 {
-  "main.js": "/static/js/main.0a722b8c.chunk.js",
-  "main.js.map": "/static/js/main.0a722b8c.chunk.js.map",
-  "static/js/1.ed1800bd.chunk.js": "/static/js/1.ed1800bd.chunk.js",
-  "static/js/1.ed1800bd.chunk.js.map": "/static/js/1.ed1800bd.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/walletconnect-banner.png": "/static/media/walletconnect-banner.e1cb8d21.png",
-  "static/media/erc20.svg": "/static/media/erc20.90607899.svg",
-  "static/media/eth.svg": "/static/media/eth.42bca731.svg",
-  "static/media/xdai.png": "/static/media/xdai.e37299a8.png",
-  "index.html": "/index.html",
-  "precache-manifest.f651520337c962ddd2a1e59de4ca1eaa.js": "/precache-manifest.f651520337c962ddd2a1e59de4ca1eaa.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/teletest/static/js/main.82533387.chunk.js",
+  "main.js.map": "/teletest/static/js/main.82533387.chunk.js.map",
+  "static/js/1.fe36e3b4.chunk.js": "/teletest/static/js/1.fe36e3b4.chunk.js",
+  "static/js/1.fe36e3b4.chunk.js.map": "/teletest/static/js/1.fe36e3b4.chunk.js.map",
+  "runtime~main.js": "/teletest/static/js/runtime~main.2fdc3497.js",
+  "runtime~main.js.map": "/teletest/static/js/runtime~main.2fdc3497.js.map",
+  "static/media/walletconnect-banner.png": "/teletest/static/media/walletconnect-banner.e1cb8d21.png",
+  "static/media/erc20.svg": "/teletest/static/media/erc20.90607899.svg",
+  "static/media/eth.svg": "/teletest/static/media/eth.42bca731.svg",
+  "static/media/xdai.png": "/teletest/static/media/xdai.e37299a8.png",
+  "index.html": "/teletest/index.html",
+  "precache-manifest.7719a799c38cbc72a09a0166f13fc29d.js": "/teletest/precache-manifest.7719a799c38cbc72a09a0166f13fc29d.js",
+  "service-worker.js": "/teletest/service-worker.js"
 }
