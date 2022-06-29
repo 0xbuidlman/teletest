@@ -1,8 +1,8 @@
 {
-  "main.js": "/teletest/static/js/main.82533387.chunk.js",
-  "main.js.map": "/teletest/static/js/main.82533387.chunk.js.map",
-  "static/js/1.fe36e3b4.chunk.js": "/teletest/static/js/1.fe36e3b4.chunk.js",
-  "static/js/1.fe36e3b4.chunk.js.map": "/teletest/static/js/1.fe36e3b4.chunk.js.map",
+  "main.js": "/teletest/static/js/main.975c6240.chunk.js",
+  "main.js.map": "/teletest/static/js/main.975c6240.chunk.js.map",
+  "static/js/1.a7ba5f22.chunk.js": "/teletest/static/js/1.a7ba5f22.chunk.js",
+  "static/js/1.a7ba5f22.chunk.js.map": "/teletest/static/js/1.a7ba5f22.chunk.js.map",
   "runtime~main.js": "/teletest/static/js/runtime~main.2fdc3497.js",
   "runtime~main.js.map": "/teletest/static/js/runtime~main.2fdc3497.js.map",
   "static/media/walletconnect-banner.png": "/teletest/static/media/walletconnect-banner.e1cb8d21.png",
@@ -10,6 +10,6 @@
   "static/media/eth.svg": "/teletest/static/media/eth.42bca731.svg",
   "static/media/xdai.png": "/teletest/static/media/xdai.e37299a8.png",
   "index.html": "/teletest/index.html",
-  "precache-manifest.eb74b7f55ccaa107f0ce9703fb645ac9.js": "/teletest/precache-manifest.eb74b7f55ccaa107f0ce9703fb645ac9.js",
+  "precache-manifest.5d545d91d0fd48ef49f641ff00e6600c.js": "/teletest/precache-manifest.5d545d91d0fd48ef49f641ff00e6600c.js",
   "service-worker.js": "/teletest/service-worker.js"
 }
