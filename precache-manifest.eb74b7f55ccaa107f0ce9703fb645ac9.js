@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/teletest/static/media/xdai.e37299a8.png"
   },
   {
-    "revision": "df569d08f3368d5f03a7128ba329890d",
+    "revision": "ec55a6bfa9527a85e14acc2b5dd659be",
     "url": "/teletest/index.html"
   }
 ];

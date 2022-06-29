@@ -15,7 +15,7 @@ importScripts("/teletest/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/teletest/workbox-v3.6.3"});
 
 importScripts(
-  "/teletest/precache-manifest.7719a799c38cbc72a09a0166f13fc29d.js"
+  "/teletest/precache-manifest.eb74b7f55ccaa107f0ce9703fb645ac9.js"
 );
 
 workbox.clientsClaim();
